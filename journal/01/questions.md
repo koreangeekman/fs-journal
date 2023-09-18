@@ -1,9 +1,9 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | As a method of maintaining a centralized, shared, and versioned set of updates for code changes |
+    > | As a method of maintaining a decentralized, shared, and versioned set of updates for code changes |
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > | to create a directory |
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
     > | ANSWER HERE |
@@ -22,7 +22,7 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > | selector, property, value |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > | ANSWER HERE |
