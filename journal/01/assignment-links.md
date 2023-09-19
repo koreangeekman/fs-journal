@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/koreangeekman/fs-journal>)**
-* **[Repo](https://github.com/koreangeekman/<ASSIGNMENT_REPO>)**
+* **[Journal Repo](https://github.com/koreangeekman/fs-journal>)**
+* **[Coolsite Repo](https://github.com/koreangeekman/lab-coolsite)**
 * **[Repo](https://github.com/koreangeekman/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/koreangeekman/<ASSIGNMENT_REPO>)**
