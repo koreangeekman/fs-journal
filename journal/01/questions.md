@@ -6,13 +6,13 @@
     > | to create a directory |
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > | 'interactive' actions providing dynamic reactions against specified elements. eg. hover, click, visited, nth-child, not |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > | determines the degree of priority a style's value has - can override generically applied formats with a more specific one depending on use cases |
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > | losing track on where a particular style is being applied, unable to 'globally' affect all within a set upon a change request |
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -25,7 +25,7 @@
     > | selector, property, value |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > | a good design can provide ease of access reducing resistance to browsing/perusing more content on the site and increase levels of trust in continuing to use and even return or in the case of e-commerce, to buy from that site |
 
 08. What is the purpose of ***wireframing***?
     > | ANSWER HERE |
@@ -37,4 +37,4 @@
     > | ANSWER HERE |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > | margin + padding |
