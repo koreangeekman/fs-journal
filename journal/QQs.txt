@@ -1,0 +1,4 @@
+Questions and Quriosities
+
+** see pair-clonesite lab project comments
+-- primary confusion related to BS vertical properties and dynamics
