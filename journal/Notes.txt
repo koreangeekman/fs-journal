@@ -1,0 +1,26 @@
+JS notes
+
+// Instructions: Write a function that finds the longest word in a string.When a Tie is found return the first longest word found.
+
+// Provided solution
+function longestWord(str) {
+  let words = str.split(' ')
+  words.sort((a, b) => b.length - a.length)
+  return words[0]
+}
+
+// Improv solution
+function challenge(str) {
+  var string = str.split(' ');
+  let wordLength = 0;
+  let longestWord = "";
+  string.forEach(word => {
+    if (word.length > wordLength) {
+      wordLength = word.length;
+      longestWord = word;
+      // console.log(wordLength, longestWord)
+    }
+    // console.log(wordLength, longestWord);
+  })
+  return longestWord;
+}

@@ -1,15 +1,15 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > | var const  ... |
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > |  |
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > | S O L I D |
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -17,7 +17,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > |  |
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,7 +34,7 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > |  |
 
 06. Give an example of a JavaScript `Conditional`:
 
