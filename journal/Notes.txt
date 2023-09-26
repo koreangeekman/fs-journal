@@ -36,3 +36,10 @@ const referencePointer = object
 
 // spread operator - breaks reference - dumps all data into specified region
 // [...array] or {...object}
+
+
+// find stops at the first instance
+
+// filter allows all instances to be found
+const items = [];
+items.filter(item => item.key == value)
