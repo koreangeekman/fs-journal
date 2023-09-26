@@ -11,7 +11,7 @@ function longestWord(str) {
 
 // Improv solution
 function challenge(str) {
-  var string = str.split(' ');
+  let string = str.split(' ');
   let wordLength = 0;
   let longestWord = "";
   string.forEach(word => {
@@ -24,3 +24,15 @@ function challenge(str) {
   })
   return longestWord;
 }
+
+// ternary operator
+// object.color = blue;
+console.log(`This item's color is ${object.color ? 'blue' : 'unknown'}`)
+
+const object = {}
+
+// creates a reference PointerEvent, not a copy equal to
+const referencePointer = object
+
+// spread operator - breaks reference - dumps all data into specified region
+// [...array] or {...object}
