@@ -1,4 +1,12 @@
-JS notes
+// SECTION - VSC notes
+
+// alt + arrows to move line
+// highlight / select then Ctrl + D to select additional occurrences
+
+// sweetalert2.github.io - js pop-ups
+
+
+// SECTION - JS notes
 
 // Instructions: Write a function that finds the longest word in a string.When a Tie is found return the first longest word found.
 
@@ -43,3 +51,24 @@ const referencePointer = object
 // filter allows all instances to be found
 const items = [];
 items.filter(item => item.key == value)
+
+
+// prompting for user input - save response to a variable
+const promptedMsg = window.prompt("prompt message")
+
+
+// Filter returns an Array, Find returns a single item/object
+
+
+// element attribute can redefine how the browser seeing the element
+//   ie. { role = "button" }
+
+// CSS to remove highlight response
+// user-select: none
+
+// CSS to reduce size on element
+// width: fit-element
+
+// clamp the values to appropriate values
+
+// setTnterval(fn, ms)
