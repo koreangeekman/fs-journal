@@ -72,3 +72,10 @@ const promptedMsg = window.prompt("prompt message")
 // clamp the values to appropriate values
 
 // setTnterval(fn, ms)
+
+// manipulating HTML attributes
+//   .querySelector('element')
+//   .querySelector('element>element') // to grab the second element nested
+//   .setAttribute('attribute','value')
+
+// emojipedia.org
