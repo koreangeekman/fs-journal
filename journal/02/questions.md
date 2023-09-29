@@ -51,7 +51,19 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > | 
+    ```js
+    // adding the entire object or just their name?
+
+    // for the entire object:
+    you.friends.push(them)
+    them.friends.push(you)
+
+    // for just their name:
+    you.friends.push(them.name)
+    them.friends.push(you.name)
+    ```
+     |
 
 06. Give an example of a JavaScript `Conditional`:
 
@@ -68,11 +80,11 @@
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | parameters are the variables for a function, arguments are passed to the function to be used in those variables |
+    > | parameters are the variables that are pre-defined within the function and intended to be supplied to the function from outside of it - when it gets passed to the function to be used in those variables, they are called arguments |
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > | Utilizing the DevTools provided by the browsers and inserting break points to help step through the code as it processes |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
