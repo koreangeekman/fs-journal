@@ -80,3 +80,34 @@ const promptedMsg = window.prompt("prompt message")
 
 // emojipedia.org
 // munchimunchi.herokuapp.com - game
+
+
+
+MVC - Model View Controller
+
+View:
+  index.html
+
+  (view talks to the controller) -->
+  (controller talks to the view) <--
+
+Controller: (should ONLY take user inputs & update the DOM)
+  app.js
+
+  (controller talks to the service) -->
+
+[Service] (middle-man role) (create classes outside of the export, then export a singular instance via const declaration)
+  calcs, throw errors, etc
+
+  (service talks to the model) -->
+
+Model: (primary data/global variable storage/class declaration)
+  appstate.js // central source of information?
+
+
+methods are a function stored in an object
+
+when linking files with import, only what has been 'exported' from the designated file gets relayed
+
+private properties inside an object? indicated with #
+private function/methods in modules started with _

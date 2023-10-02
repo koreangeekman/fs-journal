@@ -29,12 +29,12 @@
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
-  > | ANSWER HERE |
+  > | to handle user input and manipulate the DOM |
 
 09. What is the job of the `Service` in `MVC`?
   
-  > | ANSWER HERE |
+  > | any action that manipulates the data - a middle-man between the controller and model |
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | ANSWER HERE |
+  > | to define, declare and store data centric to the entire web application - a 'blueprint' of the data |
