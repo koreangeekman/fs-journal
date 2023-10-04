@@ -25,7 +25,7 @@
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > | architects a standard model we can use to build out consistent and scalable content in a predictable and maintainable fashion |
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
