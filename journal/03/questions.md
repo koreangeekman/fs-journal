@@ -21,7 +21,7 @@
 
 06. What is a computed Property?
   
-  > | The final resulting property of how an element displays |
+  > | functional properties that do not accept input and can update automatically when a dependency changes |
 
 07. What is the purpose of the `MVC` pattern?
   
