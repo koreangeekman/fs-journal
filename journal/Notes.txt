@@ -111,3 +111,10 @@ when linking files with import, only what has been 'exported' from the designate
 
 private properties inside an object? indicated with #
 private function/methods in modules started with _
+
+CRUD
+Create - Post
+Read - Get
+Update - Put
+Destroy - Delete
+
