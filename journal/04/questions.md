@@ -5,7 +5,7 @@
 
 02. What is an event listener?
 
-  > | A |
+  > | a daemon listening for triggers to execute prestaged actions |
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
@@ -21,7 +21,7 @@
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | A |
+  > | ? |
 
 07. What does the `API` acronym stand for?
 
@@ -33,7 +33,7 @@
 
 09. What is the purpose of encapsulation in programming?
 
-  > | A |
+  > | encasing of properties and methods that define and format data in a predetermined way |
 
 10. What is `HTTP` response code for a successful request?
 
