@@ -35,11 +35,11 @@
 
 07. What is middleware?
 
-  > | ANSWER HERE |
+  > | 'middle-man' role for handling/formatting data access/presentation between two endpoints? -- smaller applications that run within a larger app |
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > | ANSWER HERE |
+  > | _ _, _ _ |
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
