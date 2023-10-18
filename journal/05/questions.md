@@ -19,7 +19,7 @@
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
-  > | Object-Relational Mappers - Mongoose |
+  > | Object-Relational Mappers; Mongoose |
 
 04. Which two `HTTP` request types include a body?
 
@@ -31,11 +31,15 @@
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > | A |
+  > | 
+      1:1 - 1 to 1 - direct correlation
+      1:N - 1 to Many - eg. 1 library to many books
+      N:M - Many to Many - eg. many people to many books owned
+   |
 
 07. What is middleware?
 
-  > | 'middle-man' role for handling/formatting data access/presentation between two endpoints? -- smaller applications that run within a larger app |
+  > | 'middle-man' role for handling data access/presentation between two endpoints? -- smaller applications that run within a larger app |
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
@@ -43,8 +47,8 @@
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | A |
+  > | http://localhost:3000/api/sports?tag=winter |
 
 10. What is a ***virtual property***?
 
-  > | A |
+  > | a property that is not directly saved in the same entry but attached prior to sending |

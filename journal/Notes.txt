@@ -120,7 +120,7 @@ Destroy - Delete
 
 temp-mail.org
 
-ALlowed Callbacks
+Allowed Callbacks
 http://localhost:8080,http://localhost:8081,http://localhost:3000,http://localhost:3001,https://localhost:7045
 
 audience
