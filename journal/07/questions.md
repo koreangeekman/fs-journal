@@ -6,11 +6,11 @@
 
 2. The `SPA` acronym stands for what?
 
-  > | ANSWER HERE |
+  > | Single Page App |
 
 3. What are some of the advantages/uses of a `SPA` over a traditional one?
 
-  > | ANSWER HERE |
+  > | reduces the number of server requests per 'page' load, useful for client-side heavy functional apps |
 
 4. What does the `onMounted` method in Vue do?
 
