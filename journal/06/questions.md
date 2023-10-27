@@ -1,7 +1,7 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | main.js ? |
+  > | main.js (per google) ? index.html (per BCW Vue videos) |
 
 02. What is the difference between a vue `component` and `page`?
 
@@ -9,27 +9,27 @@
 
 03. What is ***Component-Based Architecture***?
 
-  > | breaks down a website into smaller pieces that are essentially individual, self-sustaining, and reusable modules |
+  > | allows us to break down an app into smaller pieces that are essentially individual, self-sustaining, and reusable modules |
 
 04. What are the three tags that make up a Vue component?
 
-  > | <template>,<script>,<style> |
-
+  > | <template>, <script>, <style> |
+ 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
   > | functions that trigger actions on page load/unload - can also use for intervals |
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | loadPage |
+  > | App.vue (this Q is confusing if thinking about the 'component' figuratively) |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > | globally vs locally scoped variables |
+  > | globally vs locally scoped variables and data routing  |
 
 08. What is the responsibility of `Services` in our Vue projects?
 
-  > | Same as in the MVC pattern |
+  > | Same as in the MVC pattern  - data handling |
 
 09. What are ***props*** and how are they used? Provide an example
 
