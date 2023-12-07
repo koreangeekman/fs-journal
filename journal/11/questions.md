@@ -55,9 +55,10 @@
 > technically if just returning a list of patients by a doctor, this works I believe:
 ```
 SELECT
-*
-FROM patients
-WHERE doctorId = @doctorId;
+p.*
+FROM patients p
+JOIN patient_doctors pd ON p.id = pd.patientId
+WHERE pd.doctorId = @doctorId;
 ```
 But
 ```
